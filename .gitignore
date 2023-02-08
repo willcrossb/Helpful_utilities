@@ -9,6 +9,7 @@ __pycache__/
 .gitignore
 plots/fredget
 assets
+config.py
 # Distribution / packaging
 .Python
 build/

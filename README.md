@@ -1,5 +1,5 @@
 # Helpful_utilities
-First main project here was the automated financial markets pdf using FRED database and fpdf
+A collection of small projects and pieces of code that will hopefully be built into a macro data analysis libary at some point
  
 ## Auto_Report
 This contains the Auto_report notebook which outputs a pdf of selected fred variables
@@ -16,4 +16,11 @@ This contains the Auto_report notebook which outputs a pdf of selected fred vari
 * datetime
 * plotly
 * fpdf
+
+## fredget
+Automatically collects fred data and stores dataframe as well as metadate
+
+**Dependencies:**
+* fredapi
+* pandas
 

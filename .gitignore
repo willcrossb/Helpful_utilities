@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 .gitignore
-plots/fredget
-assets
+Auto_report/plots
+
 config.py
 # Distribution / packaging
 .Python
